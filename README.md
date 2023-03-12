@@ -1,2 +1,2 @@
-# nglmitu_youtube_test
+# NGLmitu YouTube Test
 trying out the YouTube API
